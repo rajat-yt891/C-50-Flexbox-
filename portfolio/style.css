@@ -1,0 +1,18 @@
+   h2 {
+    color:black;
+border: solid;}
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    }
+.projects{ 
+    color: beige;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    align-items:baseline;
+    justify-content:right;
+}
